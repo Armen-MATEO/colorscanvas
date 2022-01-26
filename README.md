@@ -1,2 +1,2 @@
-# colorscanvas
+# canvas-game
 Created with CodeSandbox
